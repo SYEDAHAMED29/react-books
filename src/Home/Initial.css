@@ -1,0 +1,23 @@
+.bookImage {
+   height: 100%;
+   width: 100%;
+}
+
+.title {
+   padding: 4rem;
+}
+
+.title h1 {
+   font-size: 5.5rem;
+   font-weight: 600;
+}
+
+.title span {
+   color: green;
+}
+
+[js-hi] > span {
+   position: absolute;
+   top: 0;
+   left: 0;
+}

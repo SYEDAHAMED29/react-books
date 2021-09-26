@@ -5,14 +5,14 @@ import Initial from "./Initial";
 import Popular from "./Popular";
 
 function Content() {
-  return (
-    <div>
-      <Initial />
-      <BestSeller />
-      <BestAuthor />
-      <Popular />
-    </div>
-  );
+   return (
+      <div>
+         <Initial />
+         {/* <BestSeller />
+         <BestAuthor />
+         <Popular /> */}
+      </div>
+   );
 }
 
 export default Content;
